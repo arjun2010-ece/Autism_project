@@ -1,0 +1,12 @@
+.ddcontainersource{
+    display: inline-block;
+    width: 300px;
+    padding: 30px 18px;
+    margin-right: 20px;
+    text-align: center;
+    border: 1px solid black;
+}
+
+.empty-space{
+    margin-bottom: 80px;
+}

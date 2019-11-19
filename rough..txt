@@ -1,0 +1,4 @@
+   // get the data from game and display it and inside useEffect setTimeout
+   // and after 10sec put showIntro flag to false
+// in the Gamelevel put the logic by receiving the data and in some events put the flag showIntro=true and setIndex increment by 1
+//in the Gamelevel comp check whether index< data.length then increment it by SETINDEX
